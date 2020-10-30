@@ -1,6 +1,6 @@
 # React Portfolio
 
-![ReactJS Portfolio](./screenshot.png "React Portfolio Preview")
+![image](./screenshot.png)
 
 ## <a href="">LIVE DEMO</a>
 
