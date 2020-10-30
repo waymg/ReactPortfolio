@@ -1,6 +1,6 @@
 # React Portfolio
 
-![image](./screenshot.png)
+![image](./Screenshot.png)
 
 ## <a href="">LIVE DEMO</a>
 
